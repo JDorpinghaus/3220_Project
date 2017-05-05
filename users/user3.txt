@@ -1,0 +1,7 @@
+Jane
+Doe
+4
+computer engineering
+4
+c++,java,python,VHDL,autocad
+automotive

@@ -1,6 +1,6 @@
-Salesman
-4
-3.9
-10000
+DatabaseManager
 2
+2.9
+20.2
+1
 2

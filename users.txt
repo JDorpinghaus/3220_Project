@@ -1,4 +1,4 @@
-7
+8
 CarFax
 mycar
 1
@@ -19,4 +19,7 @@ password1
 0
 user2
 password2
+0
+user3
+password3
 0

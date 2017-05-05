@@ -1,3 +1,4 @@
 EquipmentShare
 Construction
-EquipmentShare is a web-services company that allows contrators to rent heavy equipment for construction jobs.
+1
+

@@ -1,7 +1,0 @@
-Justin
-Bieber
-2
-Engineering
-5
-C++,JAVA,C,Objective-C,Swift
-Automotive

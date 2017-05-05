@@ -1,6 +1,7 @@
 jacob
 dorpinghaus
 2
-Engineering
-4
-
+engineering
+3.5
+c++,python,javascript,html,css
+automotive
